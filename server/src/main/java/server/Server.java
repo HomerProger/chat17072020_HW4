@@ -51,6 +51,7 @@ public class Server {
         }
     }
 
+
     void broadcastMsg(ClientHandler sender, String msg) {
         String message = String.format("%s : %s", sender.getNick(), msg);
 

@@ -95,6 +95,7 @@ public class ClientHandler {
                                 server.privateMsg(this, token[1], token[2]);
                             }
 
+
                             //==============//
                             if (str.startsWith("/chnick ")) {
                                 String[] token = str.split("\\s", 2);

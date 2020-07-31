@@ -6,6 +6,7 @@
     -fx-border-radius: 1px;
 }
 
+
 .list-cell:filled:selected:focused, .list-cell:filled:selected {
     -fx-background-color: linear-gradient(-my-color-600 0%, -my-color-700 25%, -my-color-800 75%, -my-color-900 100%);
     -fx-text-fill: white;
