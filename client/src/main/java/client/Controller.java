@@ -132,6 +132,7 @@ public class Controller implements Initializable {
                     }
 
 
+
                     //цикл работы
                     while (true) {
                         String str = in.readUTF();
